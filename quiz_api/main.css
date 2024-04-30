@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(70, 173, 165);
+}
+
+.homeimg{
+    display: flex;
+    justify-content: center;
+}
